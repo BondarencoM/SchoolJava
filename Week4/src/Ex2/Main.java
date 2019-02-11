@@ -1,4 +1,5 @@
-public class Ex2 {
+package Ex2;
+public class Main {
 public static void main(String[] args) {
 	Employee jackie = new Employee(6);
 	Employee joe = new Manager(8);

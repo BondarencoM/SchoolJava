@@ -1,3 +1,4 @@
+package Ex2;
 public class Employee implements Taxes {
 	private double baseSalary = 40000;
 	private int years;

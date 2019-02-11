@@ -1,3 +1,4 @@
+package Ex2;
 public interface Taxes { 
 	
 	public double getGrossSalary(); 
